@@ -17,7 +17,6 @@ except IndexError:
 
 import carla
 
-import weakref
 import random
 import numpy as np
 import math
